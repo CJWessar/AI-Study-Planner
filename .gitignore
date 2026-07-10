@@ -427,3 +427,17 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Node
+node_modules/
+dist/
+
+# Rider
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
